@@ -66,7 +66,7 @@ Local: "BR"
 ---
 
 <p align="center">
-  <a href="sara-apis.com.br" target="_blank">
+  <a href="api.krxdev.tech" target="_blank">
     <img src="https://img.shields.io/badge/Minha%20API-1f6feb?style=for-the-badge&logo=api&logoColor=white" alt="Sara API" />
   </a>
 </p>
